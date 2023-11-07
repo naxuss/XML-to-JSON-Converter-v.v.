@@ -1,0 +1,17 @@
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\bin\Debug\net7.0-windows\XMLtoJSON.exe
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\bin\Debug\net7.0-windows\XMLtoJSON.deps.json
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\bin\Debug\net7.0-windows\XMLtoJSON.runtimeconfig.json
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\bin\Debug\net7.0-windows\XMLtoJSON.dll
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.csproj.AssemblyReference.cache
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.Form1.resources
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.csproj.GenerateResource.cache
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.AssemblyInfoInputs.cache
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.AssemblyInfo.cs
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.csproj.CoreCompileInputs.cache
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.csproj.CopyComplete
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.dll
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\refint\XMLtoJSON.dll
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\XMLtoJSON.genruntimeconfig.cache
+C:\Users\msa65151\source\repos\XMLtoJSON\XMLtoJSON\obj\Debug\net7.0-windows\ref\XMLtoJSON.dll

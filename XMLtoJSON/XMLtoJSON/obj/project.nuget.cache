@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d8hFXiGvBeQXkzO+TjJObz8OaIsAUZFsCS4W/3K8GoQBmdNA4zI3w2y3aV1WY4G3e7oIHPx90/R8Xu49iiQJMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msa65151\\source\\repos\\XMLtoJSON\\XMLtoJSON\\XMLtoJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msa65151\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
